@@ -4,11 +4,9 @@
   <a href="mailto:514574496@qq.com">Email</a>
 </p>
 
-
 - 🔭 I am currently studying for **my master's degree in computer science at HDU**
 - 🌱 I’m currently reasearching **Artistic Style Transfer and Dictionary Learning**
 - 💬 Ask me about **DL/ML or Pytorch/Python**
-- ⚡ Fun fact: Big Fan of the :zap: emoji
 
 -------
 
