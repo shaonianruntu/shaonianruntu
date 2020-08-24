@@ -13,7 +13,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2020 - 22 August, 2020
+Week: 16 August, 2020 - 23 August, 2020
 
 Python       13 hrs 41 mins  ███████████████████████▒░   93.23 % 
 Git Config   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
