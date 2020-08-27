@@ -13,12 +13,13 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 18 August, 2020 - 25 August, 2020
+Week: 19 August, 2020 - 26 August, 2020
 
-Python       20 hrs 50 mins  ████████████████████████░   95.35 % 
-Git Config   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python       18 hrs 48 mins  ████████████████████████▒   96.71 % 
+Git Config   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 <!--END_SECTION:waka-->
 
