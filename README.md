@@ -5,6 +5,7 @@
 </p>
 
 - 🔭 I am currently studying for **my master's degree in computer science at HDU**
+- 🤔 Due to some well-known reasons, my server often cannot connect to Github and cannot synchronize files, which makes me very confused
 - 🌱 I’m currently reasearching **Artistic Style Transfer and Dictionary Learning**
 - 💬 Ask me about **DL/ML or Pytorch/Python**
 
