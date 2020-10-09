@@ -14,7 +14,9 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 October, 2020 - 08 October, 2020
+
+
 ```
 <!--END_SECTION:waka-->
 
