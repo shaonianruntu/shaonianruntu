@@ -14,11 +14,11 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2020 - 19 October, 2020
+Week: 13 October, 2020 - 20 October, 2020
 
-Python     24 hrs 59 mins  ████████████████████████▓   98.29 % 
-Markdown   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-PHP        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Python     18 hrs 57 mins  ████████████████████████▓   98.01 % 
+PHP        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 <!--END_SECTION:waka-->
 
