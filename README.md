@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I am currently studying for **my master's degree in computer science at HDU**
-- 🌱 I’m currently working on **Image Style Transfer and Unsupervised Dictionary Learning**.
+- 🌱 I’m currently working on **Image Style Transfer and Self Unsupervised Learning**.
 - 💬 Ask me about **DL/ML or Pytorch/Python**
 
 -------
