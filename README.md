@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hi! I'm shaonianruntu.</h2>
 <p align="center">
   <a href="https://shaonianruntu.github.io/">Homepage</a> •
-  <a href="mailto:514574496@qq.com">Email</a>
+  <a href="mailto:fangnan97@qq.com">Email</a>
 </p>
 
 - 🔭 I am currently studying for **my master's degree in computer science at HDU**
