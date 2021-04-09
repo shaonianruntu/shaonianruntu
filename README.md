@@ -11,6 +11,8 @@
 
 -------
 
+![](https://github-readme-stats.vercel.app/api?username=shaonianruntu)
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
