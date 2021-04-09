@@ -13,7 +13,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=shaonianruntu&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaonianruntu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-------
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
