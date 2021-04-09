@@ -5,9 +5,10 @@
   <a href="mailto:fangnan97@qq.com">Email</a>
 </p>
 
-- 🔭 I am currently studying for **my master's degree in computer science at HDU**
-- 🌱 I’m currently working on **Image Style Transfer and Self Unsupervised Learning**.
-- 💬 Ask me about **Deep Learning or C++/Python**
+- 🎓 I am currently studying for **my Master's Degree in Computer Science at HDU**.
+- 🔬 My research direction is **Image Style Transfer** and **Self Unsupervised Learning**.
+- 🔭 I am also interested in **Product Design**, **Software Development**, **Web Development** and **Embedded development**.
+- 💬 Welcome discuss with me about **AI/ML/DL** or **C++/Python/Pytorch**.
 
 -------
 
