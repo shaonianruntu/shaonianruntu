@@ -10,9 +10,9 @@
 - 🔭 I am also interested in **Product Design**, **Software Development**, **Web Development** and **Embedded development**.
 - 💬 Welcome discuss with me about **AI/ML/DL** or **C++/Python/Pytorch**.
 
--------
 
-📊 **GitHub status statistics**
+
+<!--📊 **GitHub status statistics**-->
 
 ![](https://github-readme-stats.vercel.app/api?username=shaonianruntu&show_icons=true&hide=contribs,issues&theme=vue)
 
