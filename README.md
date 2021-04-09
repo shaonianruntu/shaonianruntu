@@ -11,7 +11,7 @@
 
 -------
 
-![](https://github-readme-stats.vercel.app/api?username=shaonianruntu)
+![](https://github-readme-stats.vercel.app/api?username=shaonianruntu&show_icons=true)
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
