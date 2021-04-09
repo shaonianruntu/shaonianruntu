@@ -11,22 +11,8 @@
 
 -------
 
+📊 **GitHub status statistics**
 ![](https://github-readme-stats.vercel.app/api?username=shaonianruntu&show_icons=true)
-
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Week: 01 April, 2021 - 08 April, 2021
-
-Python   8 hrs 56 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.62 % 
-JSON     12 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.21 % 
-Bash     9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.72 % 
-Other    1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.32 % 
-```
-<!--END_SECTION:waka-->
-
 
 -------
 
@@ -35,4 +21,5 @@ This README topic is quoted from:
 https://github.com/athul/waka-readme
 https://github.com/athul
 https://github.com/gautamkrishnar
+https://github.com/anuraghazra/github-readme-stats
 -->
