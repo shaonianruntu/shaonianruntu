@@ -13,7 +13,7 @@
 
 📊 **GitHub status statistics**
 
-![](https://github-readme-stats.vercel.app/api?username=shaonianruntu&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=shaonianruntu&show_icons=true&hide=contribs,issues)
 
 -------
 
