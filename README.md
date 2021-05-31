@@ -3,6 +3,11 @@
 
 ### Hi there 👋
 
+<p align="left">
+  <a href="https://shaonianruntu.github.io/">Homepage</a> •
+  <a href="mailto:fangnan97@qq.com">Email</a>
+</p>
+
 > I am currently a master fellow in the Department of Computing Science at Hangzhou Dianzi University. My research interests are computer vision, image processing, ML/DL, AI and their applications in different applications such as image segmentation, visual tracking, medical image analysis, robotcis, autonomous driving, etc.
 
 
