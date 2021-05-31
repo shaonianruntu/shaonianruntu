@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=shaonianruntu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shaonianruntu&show_icons=true&hide_title=true&theme=vue&hide=contribs" />
 
-### Hi there 👋
+### Hi! I'm shaonianruntu 👋
 
 <p align="left">
   <a href="https://shaonianruntu.github.io/">Homepage</a> •
