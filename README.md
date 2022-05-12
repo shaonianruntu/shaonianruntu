@@ -26,25 +26,34 @@ You can find the following useful codes from my repos:
 <td valign="top" width="25%">
   
 ### Software
-  
+<!-- Software starts -->
+- [Operating System Assignment](https://github.com/shaonianruntu/Operating-System-Assignment)
+- [Compilation Principle Assignment](https://github.com/shaonianruntu/Compilation-Principle-Assignment)
+- [Digital Image Processing Assignment](https://github.com/shaonianruntu/Digital-Image-Processing-Assignment)
+<!-- Software ends -->
 </td>
 
 <td valign="top" width="25%">
   
 ### Hardware
-  
+<!-- Hardware starts -->
+- [STM32 Motion Recorder](https://github.com/shaonianruntu/STM32-Motion-Recorder)
+- [STM32 Rotating LED](https://github.com/shaonianruntu/STM32-Rotating-LED)
+- [RPi Traffic Signal Obstacle Avoidance Car](https://github.com/shaonianruntu/RPi-Traffic-Signal-Obstacle-Avoidance-Car)
+- [MCS51 MCU Projects](https://github.com/shaonianruntu/MCS51-MCU-Projects)
+- [PIC18 MCU Projects](https://github.com/shaonianruntu/PIC18-MCU-Projects)
+- [Computer Organization Assignment](https://github.com/shaonianruntu/Computer-Organization-Assignment)
+<!-- Hardware ends -->
 </td>
   
 <td valign="top" width="25%">
 
 ### AI
-
-[Image Quality Assessment](https://github.com/shaonianruntu/Image-Quality-Assessment)
-  
-[Face Parsing](https://github.com/shaonianruntu/Face-Parsing)
-  
-[Face Keypoint Detection and Alignment](https://github.com/shaonianruntu/Face-Keypoint-Detection-and-Alignment)
-  
+<!-- AI starts -->
+- [Image Quality Assessment](https://github.com/shaonianruntu/Image-Quality-Assessment)
+- [Face Parsing](https://github.com/shaonianruntu/Face-Parsing)
+- [Face Keypoint Detection and Alignment](https://github.com/shaonianruntu/Face-Keypoint-Detection-and-Alignment)
+<!-- AI ends -->
 </td>
   
 <td valign="top" width="25%">
