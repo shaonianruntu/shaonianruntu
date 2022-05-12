@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-You can find the following useful repos:
+#### Open source projects
 
 
 <table>
@@ -26,7 +26,7 @@ You can find the following useful repos:
   
 <td valign="top" width="25%">
   
-### Software
+##### Software
 <!-- Software starts -->
 - [Operating System Assignment](https://github.com/shaonianruntu/Operating-System-Assignment)
 - [Compilation Principle Assignment](https://github.com/shaonianruntu/Compilation-Principle-Assignment)
@@ -36,7 +36,7 @@ You can find the following useful repos:
 
 <td valign="top" width="25%">
   
-### Hardware
+#### Hardware
 <!-- Hardware starts -->
 - [STM32 Motion Recorder](https://github.com/shaonianruntu/STM32-Motion-Recorder)
 - [STM32 Rotating LED](https://github.com/shaonianruntu/STM32-Rotating-LED)
@@ -49,7 +49,7 @@ You can find the following useful repos:
   
 <td valign="top" width="25%">
 
-### AI
+#### AI
 <!-- AI starts -->
 - [Image Quality Assessment](https://github.com/shaonianruntu/Image-Quality-Assessment)
 - [Face Parsing](https://github.com/shaonianruntu/Face-Parsing)
@@ -60,7 +60,7 @@ You can find the following useful repos:
   
 <td valign="top" width="25%">
   
-### Silicon
+#### Silicon
 
 </td>
 </tr>
