@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 
-### Open source projects
-
+## Open source projects
 
 <table>
 <tr>
