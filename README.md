@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on Co-GAN.
 - 🌱 I’m currently learning VLSI CAD and Apple software development.
 - 👯 I’m looking to collaborate on software backend and design.
 
 <!--
 **shaonianruntu/shaonianruntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
