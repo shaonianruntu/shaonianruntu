@@ -32,6 +32,12 @@ You can find the following useful codes from my repos:
 
 ### AI
 
+[Image Quality Assessment](https://github.com/shaonianruntu/Image-Quality-Assessment)
+
+[Face Parsing](https://github.com/shaonianruntu/Face-Parsing)
+
+[Face Keypoint Detection and Alignment](https://github.com/shaonianruntu/Face-Keypoint-Detection-and-Alignment)
+  
 </td><td valign="top" width="25%">
 
 ### Silicon
