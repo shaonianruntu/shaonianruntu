@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I'am studying VLSI CAD development and Apple software development.
 
-You can find the following useful codes from my repos:
+---
+
+You can find the following useful repos:
 
 
 <table>
@@ -29,7 +31,7 @@ You can find the following useful codes from my repos:
 <!-- Software starts -->
 - [Operating System Assignment](https://github.com/shaonianruntu/Operating-System-Assignment)
 - [Compilation Principle Assignment](https://github.com/shaonianruntu/Compilation-Principle-Assignment)
-- [Digital Image Processing Assignment](https://github.com/shaonianruntu/Digital-Image-Processing-Assignment)
+
 <!-- Software ends -->
 </td>
 
@@ -53,6 +55,7 @@ You can find the following useful codes from my repos:
 - [Image Quality Assessment](https://github.com/shaonianruntu/Image-Quality-Assessment)
 - [Face Parsing](https://github.com/shaonianruntu/Face-Parsing)
 - [Face Keypoint Detection and Alignment](https://github.com/shaonianruntu/Face-Keypoint-Detection-and-Alignment)
+- [Digital Image Processing Assignment](https://github.com/shaonianruntu/Digital-Image-Processing-Assignment)
 <!-- AI ends -->
 </td>
   
