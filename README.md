@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Co-GAN.
+- 👨‍💻 I’m currently working on Co-GAN.
 - 🌱 I’m currently learning VLSI CAD and Apple software development.
 - 👯 I’m looking to collaborate on software backend and design.
+- 🔭 I hope I can make some contribution to the development of human science and technology, and make several small software to facilitate human life.
 
 <!--
 **shaonianruntu/shaonianruntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
