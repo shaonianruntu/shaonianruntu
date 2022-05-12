@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'am studying VLSI CAD development and Apple software development.
+
+You can find the following useful codes from my repos:
+
+
+<table><tr><td valign="top" width="25%">
+
+### Software
+
+</td><td valign="top" width="25%">
+
+### Hardware
+
+</td><td valign="top" width="25%">
+
+### AI
+
+</td><td valign="top" width="25%">
+
+### Silicon
+
+</td></tr></table>
