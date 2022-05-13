@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 - [RPi Traffic Signal Obstacle Avoidance Car](https://github.com/shaonianruntu/RPi-Traffic-Signal-Obstacle-Avoidance-Car)
 - [MCS51 MCU Projects](https://github.com/shaonianruntu/MCS51-MCU-Projects)
 - [PIC18 MCU Projects](https://github.com/shaonianruntu/PIC18-MCU-Projects)
-- [Computer Organization Assignment](https://github.com/shaonianruntu/Computer-Organization-Assignment)
 <!-- Hardware ends -->
 </td>
   
@@ -61,7 +60,9 @@ Here are some ideas to get you started:
 <td valign="top" width="25%">
   
 ### Silicon
-
+<!-- Silicon starts -->
+- [Computer Organization Assignment](https://github.com/shaonianruntu/Computer-Organization-Assignment)
+<!-- Silicon ends -->
 </td>
 </tr>
 </table>
