@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👨‍💻 I’m currently working on VLSI CAD.
-- 🌱 I’m currently learning VLSI CAD and Apple software development.
+- 🌱 I’m currently learning VLSI CAD, IC Digital Backend Design and Apple software development.
 - 🤗 I’m looking to collaborate on software backend and UI design, hoping to make friends with software engineer, IC engineer and UI deisgner.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.cn/incareer/in/fangnan97) and [E-mail](fangnan97@qq.com)
 - 🔭 I hope I can make some contribution to the development of human science and technology, and make several small software to facilitate human life.
