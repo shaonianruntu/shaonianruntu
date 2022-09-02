@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 - 👨‍💻 I’m currently working on VLSI CAD.
 - 🌱 I’m currently learning VLSI CAD, IC Digital Backend Design and Apple software development.
 - 🤗 I’m looking to collaborate on software backend and UI design, hoping to make friends with software engineer, IC engineer and UI deisgner.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-## Open source projects
+## 👋 My Open Source Projects
 
 <table>
 <tr>
