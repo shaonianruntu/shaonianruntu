@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 
 ## ⚡ My Skills
-- C++, Python (+Pytorch), HTML, CSS, Javascript (+React.js), Swift, SQL.
-- Data Structure, Algorithm, Machine Learning, Deep Learning(\* Generative Adversarial Networks, Contrastive Learning, Neural Architecture Search), Computer Vision (\* Image Translation, Super-resolution Reconstruction).
+- C++, Python (+ Pytorch), HTML, CSS, Javascript (+ React.js), Swift, SQL.
+- Data Structure, Algorithm, Machine Learning, Deep Learning (! Generative Adversarial Networks, Contrastive Learning, Neural Architecture Search), Computer Vision (! Image Translation, Super-resolution Reconstruction).
 - EDA Software Development, Embedded Software Development, Web Front-end Development, iOS Development.
 
