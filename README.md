@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - [Wine Quality Prediction](https://github.com/shaonianruntu/Wine-Quality-Prediction)
 - [Spam Message Classification](https://github.com/shaonianruntu/Spam-Message-Classification)
 - [Spam Message Word Frequency](https://github.com/shaonianruntu/Spam-Message-Word-Frequency)
-- [Identify and correct a / an errors in English sentences](https://github.com/shaonianruntu/Correct-A-An-Errors)
+- [Correct a / an errors in English](https://github.com/shaonianruntu/Correct-A-An-Errors)
 - [MIL Summer School](https://github.com/shaonianruntu/MIL-Summer-School)
 <!-- AI ends -->
 </td>
