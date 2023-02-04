@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - [React.js Jianshu Site](https://github.com/shaonianruntu/React-Jianshu-Site)
 - [React.js Todolist](https://github.com/shaonianruntu/React-Todolist)
 - [React.js Transition](https://github.com/shaonianruntu/React-Transition)
-  
+- [Deep Learning Display Platform](https://github.com/shaonianruntu/Deep-Learning-Display-Platform)
 <!-- Software ends -->
 </td>
 
@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 - [Spam Message Classification](https://github.com/shaonianruntu/Spam-Message-Classification)
 - [Spam Message Word Frequency](https://github.com/shaonianruntu/Spam-Message-Word-Frequency)
 - [Identify and correct a / an errors in English sentences](https://github.com/shaonianruntu/Correct-A-An-Errors)
-- [Deep Learning Display Platform](https://github.com/shaonianruntu/Deep-Learning-Display-Platform)
 - [MIL Summer School](https://github.com/shaonianruntu/MIL-Summer-School)
 <!-- AI ends -->
 </td>
