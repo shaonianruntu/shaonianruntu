@@ -90,6 +90,9 @@ Here are some ideas to get you started:
 
 - [知乎专栏](https://www.zhihu.com/people/DarkBluecenter/columns)
 
+## 👉 My Project Videos
+
+- [Bilibili Video](https://space.bilibili.com/214016280/channel/seriesdetail?sid=578126)
 
 ## ⚡ My Skills
 - C++, Python (+ Pytorch), HTML, CSS, Javascript (+ React.js), Swift, SQL.
