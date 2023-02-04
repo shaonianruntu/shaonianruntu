@@ -69,3 +69,9 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
+
+---
+
+## 👉 My Tech Blog（Chinese Language）
+
+- [知乎专栏](https://www.zhihu.com/people/DarkBluecenter/columns)
