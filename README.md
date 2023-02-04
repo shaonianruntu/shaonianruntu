@@ -33,7 +33,14 @@ Here are some ideas to get you started:
 <!-- Software starts -->
 - [Operating System Assignment](https://github.com/shaonianruntu/Operating-System-Assignment)
 - [Compilation Principle Assignment](https://github.com/shaonianruntu/Compilation-Principle-Assignment)
-
+- [Computational Methods Assignment](https://github.com/shaonianruntu/Computational-Methods-Assignment)
+- [WeChat mini program for automatic banked cloze based on natural language processing](https://github.com/shaonianruntu/Automatic-Banked-Cloze-MiniProgram)
+- [WeChat mini program of Weather](https://github.com/shaonianruntu/Weather-WeChat-MiniProgram)
+- [Laravel.php Weibo Site](https://github.com/shaonianruntu/PHP-Weibo-Site)
+- [React.js Jianshu Site](https://github.com/shaonianruntu/React-Jianshu-Site)
+- [React.js Todolist](https://github.com/shaonianruntu/React-Todolist)
+- [React.js Transition](https://github.com/shaonianruntu/React-Transition)
+  
 <!-- Software ends -->
 </td>
 
@@ -41,6 +48,7 @@ Here are some ideas to get you started:
   
 ### Hardware
 <!-- Hardware starts -->
+- [Computer Organization Assignment](https://github.com/shaonianruntu/Computer-Organization-Assignment)
 - [STM32 Motion Recorder](https://github.com/shaonianruntu/STM32-Motion-Recorder)
 - [STM32 Rotating LED](https://github.com/shaonianruntu/STM32-Rotating-LED)
 - [RPi Traffic Signal Obstacle Avoidance Car](https://github.com/shaonianruntu/RPi-Traffic-Signal-Obstacle-Avoidance-Car)
@@ -57,16 +65,25 @@ Here are some ideas to get you started:
 - [Face Parsing](https://github.com/shaonianruntu/Face-Parsing)
 - [Face Keypoint Detection and Alignment](https://github.com/shaonianruntu/Face-Keypoint-Detection-and-Alignment)
 - [Digital Image Processing Assignment](https://github.com/shaonianruntu/Digital-Image-Processing-Assignment)
+- [Udacity Self-Driving Car Engineer Nanodegree course assignment](https://github.com/shaonianruntu/Udacity-CarND-Assignment)
+- [Udacity Machine Learning Nanodegree course assignment](https://github.com/shaonianruntu/Udacity-MLND-Assignment)
+- [Boston House Price Prediction](https://github.com/shaonianruntu/Boston-House-Price-Prediction)
+- [Wine Quality Prediction](https://github.com/shaonianruntu/Wine-Quality-Prediction)
+- [Spam Message Classification](https://github.com/shaonianruntu/Spam-Message-Classification)
+- [Spam Message Word Frequency](https://github.com/shaonianruntu/Spam-Message-Word-Frequency)
+- [Identify and correct a / an errors in English sentences](https://github.com/shaonianruntu/Correct-A-An-Errors)
+- [Deep Learning Display Platform](https://github.com/shaonianruntu/Deep-Learning-Display-Platform)
+- [MIL Summer School](https://github.com/shaonianruntu/MIL-Summer-School)
 <!-- AI ends -->
 </td>
   
-<td valign="top" width="25%">
+<!-- <td valign="top" width="25%"> -->
   
-### Silicon
+<!-- ### Silicon -->
 <!-- Silicon starts -->
-- [Computer Organization Assignment](https://github.com/shaonianruntu/Computer-Organization-Assignment)
+
 <!-- Silicon ends -->
-</td>
+<!-- </td> -->
 </tr>
 </table>
 
